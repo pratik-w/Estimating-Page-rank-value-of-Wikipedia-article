@@ -1,0 +1,16 @@
+Name: Pratik Warade
+These project consist of three file:
+
+1) pagerank.py :
+	To run this use command as follow:
+	$SPARK_HOME/bin/spark-submit (i/p path of .py ) (text i/p) (no. of iteration)
+
+
+2)pageranktax.py :
+	To run this use command as follow:
+	$SPARK_HOME/bin/spark-submit (i/p path of .py ) (text i/p) (no. of iteration)
+
+3)wikibomb.py:
+	To run tis file use command:
+	$SPARK_HOME/bin/spark-submit (i/p path of .py ) (text i/p) (no. of iteration) ('Nationa park')
+	where text i/p is page rank value of modified linksorted file
